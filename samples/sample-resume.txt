@@ -1,0 +1,45 @@
+JORDAN HALE
+San Francisco, CA  |  jordan.hale@email.example  |  +1 (415) 555-0148
+github.com/jordanhale-example  |  linkedin.com/in/jordanhale-example
+
+SUMMARY
+Full-stack software engineer with 4 years of experience building web products in React and Node.js.
+Comfortable owning features from API design through polished UI. Interested in developer tools,
+data-informed product work, and clear documentation.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, SQL
+Frontend: React, HTML, CSS, Tailwind CSS, Vite
+Backend: Node.js, Express, REST APIs, FastAPI
+Databases: PostgreSQL, MySQL
+Tools: Git, GitHub, Postman, Docker
+Practices: unit testing, code review, agile collaboration
+
+EXPERIENCE
+Software Engineer — Northline Apps, Remote
+January 2023 – Present
+- Built and maintained a React + TypeScript dashboard used by 8,000 monthly active users.
+- Designed REST APIs in Node.js and PostgreSQL for billing and notification workflows.
+- Reduced average API response time from 420ms to 180ms by adding indexes and query review.
+- Wrote Jest and Playwright tests covering checkout and account settings flows.
+- Partnered with design to ship a responsive settings redesign used by customer success.
+
+Junior Software Engineer — Cedar & Pine Studio, Oakland, CA
+June 2021 – December 2022
+- Implemented marketing site and client portal pages in React and Tailwind CSS.
+- Created a Python script to clean CSV exports before loading them into MySQL.
+- Documented API usage in Postman collections for incoming contractors.
+- Participated in weekly code reviews and sprint planning.
+
+EDUCATION
+B.S. Computer Science — Bayview University, 2021
+Relevant coursework: Data Structures, Databases, Human-Computer Interaction
+
+PROJECTS
+ShelfMark — personal reading tracker
+- React frontend with a FastAPI backend and PostgreSQL storage.
+- Users can tag books, filter by status, and export a reading history CSV.
+
+Civic Pulse — neighborhood issue map (hackathon)
+- Mapped public issue reports using JavaScript and a public REST API.
+- Presented a 3-minute demo to a panel of local organizers.

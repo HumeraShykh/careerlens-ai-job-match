@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2382 >>
+stream
+BT
+/F1 10 Tf
+50 770 Td
+(JORDAN HALE) Tj
+0 -14 Td
+(San Francisco, CA  |  jordan.hale@email.example  |  +1 \(415\) 555-0148) Tj
+0 -14 Td
+(github.com/jordanhale-example  |  linkedin.com/in/jordanhale-example) Tj
+0 -14 Td
+(SUMMARY) Tj
+0 -14 Td
+(Full-stack software engineer with 4 years of experience building web products in React and) Tj
+0 -14 Td
+(Comfortable owning features from API design through polished UI. Interested in developer t) Tj
+0 -14 Td
+(data-informed product work, and clear documentation.) Tj
+0 -14 Td
+(SKILLS) Tj
+0 -14 Td
+(Languages: JavaScript, TypeScript, Python, SQL) Tj
+0 -14 Td
+(Frontend: React, HTML, CSS, Tailwind CSS, Vite) Tj
+0 -14 Td
+(Backend: Node.js, Express, REST APIs, FastAPI) Tj
+0 -14 Td
+(Databases: PostgreSQL, MySQL) Tj
+0 -14 Td
+(Tools: Git, GitHub, Postman, Docker) Tj
+0 -14 Td
+(Practices: unit testing, code review, agile collaboration) Tj
+0 -14 Td
+(EXPERIENCE) Tj
+0 -14 Td
+(Software Engineer ? Northline Apps, Remote) Tj
+0 -14 Td
+(January 2023 ? Present) Tj
+0 -14 Td
+(- Built and maintained a React + TypeScript dashboard used by 8,000 monthly active users.) Tj
+0 -14 Td
+(- Designed REST APIs in Node.js and PostgreSQL for billing and notification workflows.) Tj
+0 -14 Td
+(- Reduced average API response time from 420ms to 180ms by adding indexes and query review) Tj
+0 -14 Td
+(- Wrote Jest and Playwright tests covering checkout and account settings flows.) Tj
+0 -14 Td
+(- Partnered with design to ship a responsive settings redesign used by customer success.) Tj
+0 -14 Td
+(Junior Software Engineer ? Cedar & Pine Studio, Oakland, CA) Tj
+0 -14 Td
+(June 2021 ? December 2022) Tj
+0 -14 Td
+(- Implemented marketing site and client portal pages in React and Tailwind CSS.) Tj
+0 -14 Td
+(- Created a Python script to clean CSV exports before loading them into MySQL.) Tj
+0 -14 Td
+(- Documented API usage in Postman collections for incoming contractors.) Tj
+0 -14 Td
+(- Participated in weekly code reviews and sprint planning.) Tj
+0 -14 Td
+(EDUCATION) Tj
+0 -14 Td
+(B.S. Computer Science ? Bayview University, 2021) Tj
+0 -14 Td
+(Relevant coursework: Data Structures, Databases, Human-Computer Interaction) Tj
+0 -14 Td
+(PROJECTS) Tj
+0 -14 Td
+(ShelfMark ? personal reading tracker) Tj
+0 -14 Td
+(- React frontend with a FastAPI backend and PostgreSQL storage.) Tj
+0 -14 Td
+(- Users can tag books, filter by status, and export a reading history CSV.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002675 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+2745
+%%EOF

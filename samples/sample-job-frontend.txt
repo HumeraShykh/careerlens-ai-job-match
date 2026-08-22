@@ -1,0 +1,31 @@
+Frontend Engineer
+Northline Apps — Remote / Hybrid
+
+About the role
+We are hiring a Frontend Engineer to own the user interface for our customer dashboard.
+You will build accessible, responsive screens in React and TypeScript, and you will partner
+with design to ship polished product features that feel fast on mobile and desktop.
+
+Responsibilities
+- Build reusable React and TypeScript components with Tailwind CSS and Vite
+- Implement accessible forms, tables, and navigation for a high-traffic dashboard
+- Write Jest and Playwright tests for checkout, settings, and account flows
+- Work with REST APIs from a Node.js backend and handle loading and error states
+- Collaborate through Git, pull requests, and clear UI documentation
+- Improve performance, responsive layout, and visual consistency
+
+Requirements
+- 3+ years of professional frontend or full-stack product experience
+- Strong React and TypeScript skills
+- Experience with HTML, CSS, and Tailwind CSS
+- Familiarity with Jest, Playwright, or similar frontend tests
+- Comfort calling REST APIs and handling JSON
+- Bachelor's degree in Computer Science, or equivalent practical experience
+
+Nice to have
+- Next.js
+- Storybook
+- Figma collaboration
+- Node.js or Express for small backend changes
+
+We value honest resumes. Please only list skills and projects you can discuss in an interview.

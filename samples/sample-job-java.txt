@@ -1,0 +1,31 @@
+Java Platform Engineer
+Harbor Grid — Hybrid, Chicago
+
+About the role
+We are hiring a Java Platform Engineer to run high-throughput payment services.
+You will design Spring Boot microservices, event streams, and production infrastructure
+for a regulated financial product. This role is for someone who lives in the JVM ecosystem.
+
+Responsibilities
+- Design and operate Spring Boot and Hibernate services on Kubernetes
+- Build Kafka event pipelines and Redis caching for payment workflows
+- Write Terraform for AWS infrastructure and Jenkins CI/CD
+- Tune JVM performance, observability, and incident response
+- Enforce code review, static analysis, and security scanning
+- Mentor engineers on Java concurrency and distributed systems
+
+Requirements
+- 5+ years of professional Java backend experience
+- Production Spring Boot, Hibernate, and Maven or Gradle
+- Hands-on Kafka, Kubernetes, and Terraform
+- Experience with AWS, Jenkins, and Redis
+- Strong knowledge of JVM tuning and distributed tracing
+- Bachelor's or Master's degree in Computer Science
+
+Nice to have
+- Kafka Streams
+- Istio service mesh
+- Groovy or Kotlin
+- PCI-DSS or other financial compliance work
+
+We value honest resumes. Please only list skills and projects you can discuss in an interview.

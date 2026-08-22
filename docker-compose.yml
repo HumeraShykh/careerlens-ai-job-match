@@ -1,0 +1,24 @@
+# Optional local PostgreSQL for analysis history.
+# CareerLens AI can analyze resumes without this service.
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: careerlens-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: careerlens
+      POSTGRES_PASSWORD: careerlens_dev
+      POSTGRES_DB: careerlens
+    ports:
+      - "5432:5432"
+    volumes:
+      - careerlens_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U careerlens -d careerlens"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  careerlens_pgdata:
